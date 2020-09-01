@@ -1,6 +1,6 @@
 
 
-# python-svm-sgd
+# python-FSVM-fsgd
 Python implementation of Fuzzy Support vector Machines.
 Uses of Fuzzy Vector Machine are:
 1. Removing Outliers
